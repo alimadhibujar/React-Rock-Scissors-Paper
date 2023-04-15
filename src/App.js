@@ -166,7 +166,7 @@ const App = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/alimadhibujar/Rock-Paper-Scissors-React-Game"
+          href="https://github.com/alimadhibujar/React-Rock-Scissors-Paper"
         >
           <i className="fa fa-github" title="github"></i>
         </a>
